@@ -10,3 +10,4 @@ tags = ["articles", "blog"]
 # Articles
 
 - [Improving the state of application development](/articles/mission)
+- [Multiple dispatch: a step towards intuitive programming](/articles/multiple_dispatch_simplicity)

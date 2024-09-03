@@ -6,8 +6,9 @@
   --block-background: hsl(0, 0%, 94%);
   --output-background: hsl(0, 0%, 98%);
   --small: 14px;
-  --normal: 19px;
+  --normal: 22px;
   --text-color: hsv(0, 0%, 20%);
+  --font: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
 }
 
 /* ==================================================================
@@ -15,9 +16,10 @@
 ================================================================== */
 
 html {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: var(--font);
   font-size: var(--normal);
   color: var(--text-color);
+  -webkit-font-smoothing: antialiased;
 }
 
 /* ==================================================================
