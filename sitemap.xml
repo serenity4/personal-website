@@ -3,19 +3,25 @@
 
 <url>
     <loc>https://tlienart.github.io/FranklinTemplates.jl/index.html</loc>
-    <lastmod>2024-09-02</lastmod>
+    <lastmod>2024-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://tlienart.github.io/FranklinTemplates.jl/articles/index.html</loc>
-    <lastmod>2024-09-02</lastmod>
+    <lastmod>2024-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/articles/multiple_dispatch_simplicity/index.html</loc>
+    <lastmod>2024-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://tlienart.github.io/FranklinTemplates.jl/articles/mission/index.html</loc>
-    <lastmod>2024-09-02</lastmod>
+    <lastmod>2024-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
